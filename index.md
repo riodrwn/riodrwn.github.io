@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-I’m Rio Darmawan, I am a security consultant currently working at [PT. Mitra Integrasi Informatika]([https://github.com/jitinnair1/gradfolio#installation](https://www.linkedin.com/company/pt.-mitra-integrasi-informatika/mycompany/){:target="_blank"}. My interests span Information Security, Penetration Testing, and Capture The Flag(CTF).
+I’m Rio Darmawan, I am a security consultant currently working at [PT. Mitra Integrasi Informatika]([https://github.com/jitinnair1/gradfolio#installation])(){:target="_blank"}. I interest to Information Security, Penetration Testing, and Capture The Flag(CTF).
 
 If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
 
