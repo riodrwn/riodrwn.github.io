@@ -9,11 +9,9 @@ published: true
 
 I’m Rio Darmawan, I am a security consultant currently working at [PT. Mitra Integrasi Informatika](https://www.linkedin.com/company/pt.-mitra-integrasi-informatika/mycompany/). I interest to Information Security, Penetration Testing, and Capture The Flag(CTF).
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+I like to contribute in finding vulnerability in an open source plugin. and i also got CVE for what i have done, you can see it in CVE Archive tab.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
-
-PS: If you liked the theme, do star it on GitHub!
+for now, I still have a lot to learn about cybersecurity. if you have questions or interesting discussions about cybersecurity. do not hesitate to contact me via email / my social media.
 
 ### Also, check out:
 
