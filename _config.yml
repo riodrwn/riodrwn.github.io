@@ -5,7 +5,7 @@ description: Junior Penetration Tester | Patchstack Alliance Member | eJPT
 
 baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: riodrwn@zerobyte.id
 
 # Pagination
 paginate: 4
