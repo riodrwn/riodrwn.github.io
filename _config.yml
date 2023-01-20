@@ -3,7 +3,7 @@
 title: Rio Darmawan
 description: Junior Penetration Tester | Patchstack Alliance Member | eJPT
 
-baseurl: /riodrwn.github.io #name of GitHub repository
+baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
