@@ -15,15 +15,7 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 twitter: "https://twitter.com/riodrwn"
 linkedin: "https://www.linkedin.com/in/riodrwn/"
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
 github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
 email: "riodrwn@zerobyte.id"
 
 # Markdown
