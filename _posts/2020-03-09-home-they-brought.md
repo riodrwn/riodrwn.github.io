@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Home They Brought Her Warrior Dead 
+title: CVE-2023-22716 - OOPSpam Anti-Spam Plugin <= 1.1.35 - Cross Site Scripting (XSS)
 ---
 
 Description
