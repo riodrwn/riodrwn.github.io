@@ -7,6 +7,17 @@ Description
 ============
 Bubble Menu – circle floating menu Plugin <= 3.0.1 This could allow a malicious actor to force higher privileged users to execute unwanted actions under their current authentication.
 
+Mitigation
+============ 
+Update the WordPress Bubble Menu – circle floating menu plugin to the latest available version (at least 3.0.2).
+
+Timeline
+============ 
+  * 07 January 2023: Vulnerability reported thru patchstack.com.
+  * 07 January 2023: Vulnerability valid
+  * 20 January 2023: Patch version rolled out
+  * 20 January 2023: Vulnerability disclosed
+
 References
 ============ 
   * [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-CVE-2023-23984](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-CVE-2023-23984)
