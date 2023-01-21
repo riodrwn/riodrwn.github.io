@@ -17,8 +17,8 @@ Payload
 
 References
 ============ 
--[https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22716](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22716)
--[Patchstack](https://patchstack.com/database/vulnerability/oopspam-anti-spam/wordpress-oopspam-anti-spam-plugin-1-1-35-cross-site-scripting-xss-vulnerability)
+  * [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22716](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22716)
+  * [Patchstack](https://patchstack.com/database/vulnerability/oopspam-anti-spam/wordpress-oopspam-anti-spam-plugin-1-1-35-cross-site-scripting-xss-vulnerability)
 
 
 
