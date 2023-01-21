@@ -23,7 +23,7 @@ Timeline
 ============ 
   * 10 January 2023: Vulnerability reported thru patchstack.com.
   * 10 January 2023: Vulnerability valid
-  * 17 January 2023: Patch version rolled out
+  * 16 January 2023: Patch version rolled out
   * 17 January 2023: Vulnerability disclosed
  
 References
