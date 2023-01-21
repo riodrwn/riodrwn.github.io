@@ -13,9 +13,9 @@ Update the WordPress Bubble Menu – circle floating menu plugin to the latest a
 
 Timeline
 ============ 
-  * 07 January 2023: Vulnerability reported thru patchstack.com.
+  * 06 January 2023: Vulnerability reported thru patchstack.com.
   * 07 January 2023: Vulnerability valid
-  * 20 January 2023: Patch version rolled out
+  * 16 January 2023: Patch version rolled out
   * 20 January 2023: Vulnerability disclosed
 
 References
