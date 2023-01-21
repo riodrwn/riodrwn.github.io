@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-I’m Rio Darmawan, I am a security consultant currently working at [PT. Mitra Integrasi Informatika](https://www.linkedin.com/company/pt.-mitra-integrasi-informatika/mycompany/). I interest to Information Security, Penetration Testing, and Capture The Flag(CTF).
+I’m Rio Darmawan, I am a security consultant currently working at [PT. Mitra Integrasi Informatika](https://www.mii.co.id/). I interest to Information Security, Penetration Testing, and Capture The Flag(CTF).
 
 I like to contribute in finding vulnerability in an open source plugin. and i also got CVE for what i have done, you can see it in CVE Archive tab.
 
