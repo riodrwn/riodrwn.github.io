@@ -17,8 +17,8 @@ Payload
 
 References
 ============ 
--[https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22715](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22715)
--[Patchstack](https://patchstack.com/database/vulnerability/wp-commentnavi/wordpress-wp-commentnavi-plugin-1-12-1-cross-site-scripting-xss)
+  * [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22715](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22715)
+  * [Patchstack](https://patchstack.com/database/vulnerability/wp-commentnavi/wordpress-wp-commentnavi-plugin-1-12-1-cross-site-scripting-xss)
 
 
 
