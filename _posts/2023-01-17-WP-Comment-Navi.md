@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CVE-2023-22716 - WP-CommentNavi Plugin <= 1.12.1 - Cross Site Scripting (XSS)
+title: CVE-2023-22715 - WP-CommentNavi Plugin <= 1.12.1 - Cross Site Scripting (XSS)
 ---
 
 Description
