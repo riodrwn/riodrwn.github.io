@@ -15,6 +15,17 @@ Payload
 " onfocus=alert(/XSS/) autofocus="
 ~~~
 
+Mitigation
+============ 
+Update the WordPress WP-CommentNavi plugin to the latest available version (at least 1.12.2).
+
+Timeline
+============ 
+  * 10 January 2023: Vulnerability reported thru patchstack.com.
+  * 10 January 2023: Vulnerability valid
+  * 17 January 2023: Patch version rolled out
+  * 17 January 2023: Vulnerability disclosed
+ 
 References
 ============ 
   * [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22715](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22715)
