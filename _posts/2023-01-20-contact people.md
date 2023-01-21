@@ -7,6 +7,17 @@ Description
 ============
 Contact people LITE Plugin <= 3.7.0 This could allow a malicious actor to force higher privileged users to execute unwanted actions under their current authentication. For example a password change which will then allow the malicious actor to login into the admin account.
 
+Mitigation
+============ 
+Update the WordPress Contact Us page - Contact people LITE plugin to the latest available version (at least 3.7.1).
+
+Timeline
+============ 
+  * 06 January 2023: Vulnerability reported thru patchstack.com.
+  * 07 January 2023: Vulnerability valid
+  * 14 January 2023: Patch version rolled out
+  * 20 January 2023: Vulnerability disclosed
+
 References
 ============ 
   * [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-CVE-2023-23973](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-CVE-2023-23973)
