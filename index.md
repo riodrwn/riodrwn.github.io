@@ -12,3 +12,7 @@ I’m Rio Darmawan, I am a security consultant currently working at [PT. Mitra I
 I like to contribute in finding vulnerability in an open source plugin. and i also got CVE for what i have finding, you can see it in CVE Archive tab.
 
 for now, I still have a lot to learn about cybersecurity. if you have questions or interesting discussions about cybersecurity. do not hesitate to contact me via email / my social media.
+
+### Also, check out:
+
+- [My Medium.com](https://riodrwn.medium.com/) - here! I wrote writeups and things about cybersecurity
