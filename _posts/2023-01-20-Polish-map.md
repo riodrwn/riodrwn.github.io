@@ -15,6 +15,17 @@ Payload
 " onfocus=alert(/XSS/) autofocus="
 ~~~
 
+Mitigation
+============ 
+Update the WordPress Interactive Polish Map plugin to the latest available version (at least 1.2.1).
+
+Timeline
+============ 
+  * 10 January 2023: Vulnerability reported thru patchstack.com.
+  * 10 January 2023: Vulnerability valid
+  * 18 January 2023: Patch version rolled out
+  * 20 January 2023: Vulnerability disclosed
+
 References
 ============ 
   * [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-23821](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-23821)
