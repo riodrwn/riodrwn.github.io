@@ -28,7 +28,7 @@ Timeline
   
 References
 ============ 
-  * [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22716](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-23675)
+  * [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-23675](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-23675)
   * [Patchstack](https://patchstack.com/database/vulnerability/wp-smart-preloader/wordpress-wp-smart-preloader-plugin-1-15-cross-site-scripting-xss-vulnerability)
 
 
