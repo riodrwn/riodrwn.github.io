@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CVE-2023-24006 - WP Terms Popup – Terms and Conditions and Privacy Policy WordPress Popups Plugin <= 2.6.0 - Cross Site Scripting (XSS)
+title: CVE-2023-24006 - WP Terms Popup Plugin <= 2.6.0 - Cross Site Scripting (XSS)
 ---
 
 Description
