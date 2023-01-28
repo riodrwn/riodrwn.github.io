@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CVE-2023-23984 - Bubble Menu – circle floating menu Plugin <= 3.0.1 - Cross Site Request Forgery (CSRF)
+title: CVE-2023-23984 - Bubble Menu Plugin <= 3.0.1 - Cross Site Request Forgery (CSRF)
 ---
 
 Description
