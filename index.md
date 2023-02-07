@@ -13,4 +13,4 @@ I enjoy contributing to finding vulnerabilities in open-source plugins and have 
 
 ### Also, check out:
 
-- [My Medium.com](https://riodrwn.medium.com/) - here! I wrote writeups and things about cybersecurity
+- [My Medium.com](https://riodrwn.medium.com/) - here! I write write-ups and articles about cybersecurity
