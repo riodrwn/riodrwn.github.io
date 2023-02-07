@@ -7,11 +7,9 @@ profile:
 published: true
 ---
 
-I’m Rio Darmawan, I am a security consultant currently working at [PT. Mitra Integrasi Informatika](https://www.mii.co.id/) At my job, I do penetration testing (web apps/mobile apps) and vulnerability Assesment on client companies. I interest to Information Security, Penetration Testing, and Capture The Flag(CTF).
+I am Rio Darmawan, a security consultant currently working at [PT. Mitra Integrasi Informatika](https://www.mii.co.id/). In my job, I conduct penetration testing on web and mobile applications, as well as vulnerability assessments for clients. My interests include information security, penetration testing, and Capture The Flag (CTF).
 
-I like to contribute in finding vulnerability in an open source plugin. and i also got CVE for what i have finding, you can see it in CVE Archive tab.
-
-for now, I still have a lot to learn about cybersecurity. if you have questions or interesting discussions about cybersecurity. do not hesitate to contact me via email / my social media.
+I enjoy contributing to finding vulnerabilities in open-source plugins and have received a CVE for my findings, which can be seen in the CVE Archive tab. Despite my experience, I still have much to learn in the field of cybersecurity. If you have any questions or interesting discussions about cybersecurity, please do not hesitate to reach out to me via email or social media.
 
 ### Also, check out:
 
